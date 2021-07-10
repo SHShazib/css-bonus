@@ -36,3 +36,7 @@ h1 {
 .photo-frame:hover .photo-detail p {
     color: white;
 }
+a {
+    text-align: center;
+    font-size: 25px;
+}
